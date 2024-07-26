@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+
+    font-family: "Poppins", sans-serif;
+
+
+}
+
+.all-section {
+    margin: 50px 150px;
+    border: 2px solid red;
+}
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:576px) {}
