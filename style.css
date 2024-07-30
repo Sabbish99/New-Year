@@ -6,8 +6,6 @@
 body {
 
     font-family: "Poppins", sans-serif;
-
-
 }
 
 .all-section {
@@ -15,6 +13,69 @@ body {
     border: 2px solid red;
 }
 
+/* section-1 starts */
+.section-1-1 img {
+    width: 100%;
+    margin-bottom: 120px;
+}
+
+/* section two starts */
+
+.section-2 {
+    text-align: center;
+    margin-bottom: 120px;
+}
+
+.section-2 h1 {
+    font-size: 88px;
+    margin-bottom: 48px;
+    color: #ff0000;
+}
+
+.section-2 h6 {
+    font-size: 24px;
+    font-weight: 500;
+    color: #ff0000;
+    margin-bottom: 16px;
+}
+
+.section-2 h2 {
+    font-size: 48px;
+    margin-bottom: 24px;
+}
+
+/* section three starts */
+
+.section-3 img {
+    width: 100%;
+    margin-bottom: 120px;
+}
+
+/* section four starts */
+.section-4 {
+    text-align: center;
+    font-size: 36px;
+    padding: 100px;
+    background-color: #ffe1e1;
+    border-radius: 24px;
+    margin-bottom: 120px;
+}
+
+.section-4 span {
+    color: red;
+}
+
+.section-4-btn {
+    border: none;
+    padding: 16px 32px;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 8px;
+}
+
+/* section-5 starts */
 
 
 
@@ -24,4 +85,177 @@ body {
 
 
 
-@media screen and (max-width:576px) {}
+
+
+
+
+/* responsive max width 400px */
+
+@media screen and (max-width:400px) {
+
+
+
+    .all-section {
+        margin: 16px;
+        border: 2px solid red;
+    }
+
+
+    /* section-1 starts */
+    .section-1-1 img {
+        width: 100%;
+        margin-bottom: 60px;
+    }
+
+    /* section two starts */
+
+    .section-2 {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+
+    .section-2 h1 {
+        font-size: 32px;
+        margin-bottom: 16px;
+        color: #ff0000;
+    }
+
+    .section-2 h6 {
+        font-size: 16px;
+        font-weight: 400;
+        color: #ff0000;
+        margin-bottom: 8px;
+    }
+
+    .section-2 h2 {
+        font-size: 16px;
+        margin-bottom: 16px;
+    }
+
+    .section-2 img {
+        width: 70%;
+    }
+
+
+    /* section 3 starts  */
+    .section-3 img {
+        width: 100%;
+        margin-bottom: 60px;
+    }
+
+    /* section four starts */
+    .section-4 {
+        text-align: center;
+        font-size: 12px;
+        padding: 16px;
+        background-color: #ffe1e1;
+        border-radius: 8px;
+    }
+
+    .section-4 span {
+        color: red;
+    }
+
+    .section-4-btn {
+        margin-top: 8px;
+        border: none;
+        padding: 12px 20px;
+        background-color: red;
+        color: white;
+        font-size: 12px;
+        font-weight: 600;
+        border-radius: 8px;
+    }
+
+
+}
+
+
+
+
+
+/* responsive max width 576px */
+
+@media screen and (min-width:401px) and (max-width:576px) {
+
+
+
+    .all-section {
+        margin: 16px;
+        border: 2px solid red;
+    }
+
+
+    /* section-1 starts */
+    .section-1-1 img {
+        width: 100%;
+        margin-bottom: 60px;
+    }
+
+    /* section two starts */
+
+    .section-2 {
+        text-align: center;
+        margin-bottom: 60px;
+    }
+
+    .section-2 h1 {
+        font-size: 44px;
+        margin-bottom: 24px;
+        color: #ff0000;
+    }
+
+    .section-2 h6 {
+        font-size: 24px;
+        font-weight: 400;
+        color: #ff0000;
+        margin-bottom: 8px;
+    }
+
+    .section-2 h2 {
+        font-size: 24px;
+        margin-bottom: 24px;
+    }
+
+    .section-2 img {
+        width: 70%;
+    }
+
+    /* section 3 start  */
+    .section-3 img {
+        width: 100%;
+        margin-bottom: 60px;
+    }
+
+
+    /* section four starts */
+    .section-4 {
+        text-align: center;
+        font-size: 14px;
+        padding: 16px;
+        background-color: #ffe1e1;
+        border-radius: 8px;
+    }
+
+    .section-4 span {
+        color: red;
+    }
+
+    .section-4-btn {
+        margin-top: 10px;
+        border: none;
+        padding: 14px 24px;
+        background-color: red;
+        color: white;
+        font-size: 13px;
+        font-weight: 600;
+        border-radius: 8px;
+    }
+
+
+
+
+
+
+
+}
