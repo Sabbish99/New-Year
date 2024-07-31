@@ -111,6 +111,29 @@ body {
     padding: 16px;
 }
 
+/* section-6 */
+.section-6 {
+    text-align: center;
+    padding: 50px 200px;
+}
+
+.section-6 h4 {
+    font-size: 24px;
+}
+
+.section-6 h1 {
+    font-size: 72px;
+}
+
+.section-6 span {
+    color: red;
+}
+
+.section-6 p {
+    font-size: 20px;
+}
+
+
 
 
 
