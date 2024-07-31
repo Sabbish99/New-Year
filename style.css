@@ -44,6 +44,10 @@ body {
     margin-bottom: 24px;
 }
 
+.section-2-1 img {
+    width: 50%;
+}
+
 /* section three starts */
 
 .section-3 img {
@@ -170,6 +174,7 @@ body {
     .section-2 {
         text-align: center;
         margin-bottom: 40px;
+        padding: 20px;
     }
 
     .section-2 h1 {
@@ -179,7 +184,7 @@ body {
     }
 
     .section-2 h6 {
-        font-size: 16px;
+        font-size: 20px;
         font-weight: 400;
         color: #ff0000;
         margin-bottom: 8px;
@@ -191,8 +196,11 @@ body {
     }
 
     .section-2 img {
-        width: 70%;
+        width: 50%;
     }
+
+
+
 
 
     /* section 3 starts  */
@@ -269,6 +277,38 @@ body {
     }
 
 
+    /* section-6 */
+    .section-6 {
+        margin-top: 50px;
+        text-align: center;
+        padding: 20px;
+    }
+
+    .section-6 h4 {
+        font-size: 18px;
+    }
+
+    .section-6 h1 {
+        font-size: 32px;
+    }
+
+    .section-6 span {
+        color: red;
+    }
+
+    .section-6 p {
+        font-size: 16px;
+        text-align: justify;
+    }
+
+
+
+
+
+
+
+
+
 }
 
 
@@ -319,7 +359,7 @@ body {
     }
 
     .section-2 img {
-        width: 70%;
+        width: 50%;
     }
 
     /* section 3 start  */
@@ -391,6 +431,30 @@ body {
 
     .section-5-right {
         padding: 16px;
+    }
+
+    /* section-6 */
+    .section-6 {
+        margin-top: 50px;
+        text-align: center;
+        padding: 20px;
+    }
+
+    .section-6 h4 {
+        font-size: 20px;
+    }
+
+    .section-6 h1 {
+        font-size: 36px;
+    }
+
+    .section-6 span {
+        color: red;
+    }
+
+    .section-6 p {
+        font-size: 16px;
+        text-align: justify;
     }
 
 
