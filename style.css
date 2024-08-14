@@ -181,10 +181,6 @@ body {
 }
 
 
-
-
-
-
 /* responsive max width 400px */
 
 @media screen and (max-width:400px) {
@@ -301,7 +297,7 @@ body {
 
     .section-5-center img {
         width: 100%;
-        border: 2px solid green;
+        border: 5px solid rgb(223, 0, 0);
         border-radius: 500px;
         padding: 16px;
     }
@@ -379,7 +375,6 @@ body {
 
 
 }
-
 
 /* responsive max width 576px */
 
@@ -490,7 +485,7 @@ body {
 
     .section-5-center img {
         width: 100%;
-        border: 2px solid green;
+        border: 5px solid rgb(209, 31, 0);
         border-radius: 500px;
         padding: 16px;
     }
